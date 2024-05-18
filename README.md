@@ -1,2 +1,2 @@
-# Proyecto_Cr-ditos
+# Proyecto_Creditos
 # Proyecto Créditos
