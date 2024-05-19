@@ -19,3 +19,5 @@ template-render >= 0.1.0
 streamlit >= 1.31.1
 plotly >= 5.22.0
 openpyxl >= 3.1.2
+lightgbm >= 4.3.0
+ngboost >= 0.5.1
